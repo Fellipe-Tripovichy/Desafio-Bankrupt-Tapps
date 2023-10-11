@@ -1,0 +1,17 @@
+# Desafio-Tapps-Bankrupt
+
+Criação de um jogo parecido com Banco Imobiliário a fim de testes habilidades de programção com linguagens orientadas a objetos.
+
+Antes de começar, certifique-se de ter instalado o seguinte:
+
+- [Node.js](https://nodejs.org/) - Verifique a instalação usando `node -v`
+- [npm](https://www.npmjs.com/) - Verifique a instalação usando `npm -v`
+
+Rodando o programa:
+
+- Faça download da pasta .rar
+- Descompacte a pasta no seu computador
+- Acesse a pasta do projeto
+- Clique com o botão direito na pasta e acesse o terminal já no destino correto
+- Digite no terminal `node main.mjs`
+- Pronto, agora você receberá os resultados dos testes realizados.
